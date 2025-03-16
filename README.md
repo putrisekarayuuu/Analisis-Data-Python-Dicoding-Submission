@@ -13,4 +13,4 @@ cd dashboard
 streamlit run dashboard.py
 ```
 =======
-**Streamlit Dashboard Link:** https://bike-sharing-system-analytics-dashboard-putrisekarayuuu.streamlit.app/
+**Streamlit Dashboard Link:** https://bike-sharing-system-sekar.streamlit.app
